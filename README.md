@@ -60,12 +60,5 @@ This repository contains a Python Streamlit application that allows users to sea
 ## Loading vectors into the containers
 
 1. The app will create the containers with required vector policies and indexes -yYou need to load the data into the containers.
-2. A sample databricks notebook is provided to load data into the containers from a file containing a json array of pre-vectorised documents: src/data/data-loader.ipynb
-
-1. **Create a container in Azure Cosmos DB**:
-   - Create a new container in your Azure Cosmos DB account with the following settings:
-     - Database: `diskanndb`
-     - Container ID: `papers`
-     - Partition key: `/id`
-
+2. A sample databricks notebook is provided to load data into the containers from a file containing a json array of pre-vectorised documents: [src/data/data-loader.ipynb](/src/data/data-loader.ipynb).
    
