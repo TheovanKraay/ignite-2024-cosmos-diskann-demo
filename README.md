@@ -2,6 +2,8 @@
 
 This repository contains a Streamlit application that allows users to search for research papers using semantic search powered by OpenAI embeddings and Azure Cosmos DB. The application uses cosine similarity to match user queries with research papers and displays the results.
 
+![screenshot](media/screen-shot.png)
+
 ## Features
 
 - Semantic search for research paper abstracts using OpenAI embeddings.
