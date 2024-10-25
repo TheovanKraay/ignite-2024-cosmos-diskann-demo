@@ -1,4 +1,4 @@
-# Comparing DiskANN and Quantized Flat Indexes for Semantic Search
+# Comparing DiskANN and Quantized Flat Indexes for Semantic Search in Azure Cosmos DB.
 
 This repository contains a Streamlit application that allows users to search for research papers using semantic search powered by OpenAI embeddings and Azure Cosmos DB. The application uses cosine similarity to match user queries with research papers and displays the results.
 
